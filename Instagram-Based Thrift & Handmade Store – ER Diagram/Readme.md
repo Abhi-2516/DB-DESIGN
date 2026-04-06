@@ -68,7 +68,7 @@ Overall, the design focuses on being:
 
 ![ER Diagram](./final.png)
 
-(Replace the file name with your actual PNG file name)
+
 
 ---
 
